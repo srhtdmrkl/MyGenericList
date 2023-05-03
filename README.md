@@ -5,7 +5,7 @@ Java102 Generic Class Asssignment on patika.dev
 
 Create a MyList class to hold a dynamic Array and get the data type dynamically.
 
-# Characteristics of the class:
+# Details of the Class:
 
 - The default size of the array should be 10 and the number of array elements should increase by a factor of 2 as needed.
 - The class should have two types of constructor methods
